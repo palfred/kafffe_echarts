@@ -41,7 +41,7 @@ kotlin {
     }
     sourceSets {
         jsMain.dependencies {
-            implementation("dk.rheasoft:kafffe:1.7-SNAPSHOT")
+            implementation("dk.rheasoft:kafffe:1.7")
             implementation(npm("echarts", "5.5.1"))
         }
     }
