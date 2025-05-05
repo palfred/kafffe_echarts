@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "dk.rheasoft"
-val workingOnVersion = "1.0"
+val workingOnVersion = "1.1"
 
 // Setup SNAPSHOT version if not on master branch.
 val githubBranch: String? by project
